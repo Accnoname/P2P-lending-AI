@@ -1,0 +1,5 @@
+{
+  "name": "Stacks Micro-Job Platform",
+  "description": "A decentralized micro-job platform where users can post jobs, apply for them, and submit results. Job submissions are stored on IPFS, and a DAO votes to approve or reject results, triggering STX payment from escrow.",
+  "requestFramePermissions": []
+}
